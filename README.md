@@ -46,3 +46,7 @@ This project is a Jupyter Notebook that demonstrates how to scrape website conte
 - This notebook is for educational and demonstration purposes.
 - Ensure you comply with website terms of service when scraping content.
 
+
+## Additional Free Solution
+A new notebook file, `ScraperPlusParserUsingOllama_free.ipynb`, has been added to this folder. It uses the open-source Ollama (llama3.2) model to perform website scraping and summarization for free, without requiring paid API tokens. This provides an alternative to the OpenAI-based workflow for users who prefer a local, no-cost solution.
+
